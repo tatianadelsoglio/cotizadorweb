@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cotizadorweb.git/static/css/main.769b1815.chunk.css",
-    "main.js": "/cotizadorweb.git/static/js/main.8a7ee25c.chunk.js",
-    "main.js.map": "/cotizadorweb.git/static/js/main.8a7ee25c.chunk.js.map",
-    "runtime-main.js": "/cotizadorweb.git/static/js/runtime-main.17bab0d5.js",
-    "runtime-main.js.map": "/cotizadorweb.git/static/js/runtime-main.17bab0d5.js.map",
-    "static/js/2.6c304317.chunk.js": "/cotizadorweb.git/static/js/2.6c304317.chunk.js",
-    "static/js/2.6c304317.chunk.js.map": "/cotizadorweb.git/static/js/2.6c304317.chunk.js.map",
-    "index.html": "/cotizadorweb.git/index.html",
-    "static/css/main.769b1815.chunk.css.map": "/cotizadorweb.git/static/css/main.769b1815.chunk.css.map",
-    "static/js/2.6c304317.chunk.js.LICENSE.txt": "/cotizadorweb.git/static/js/2.6c304317.chunk.js.LICENSE.txt"
+    "main.css": "/cotizadorweb/static/css/main.769b1815.chunk.css",
+    "main.js": "/cotizadorweb/static/js/main.32cb91bc.chunk.js",
+    "main.js.map": "/cotizadorweb/static/js/main.32cb91bc.chunk.js.map",
+    "runtime-main.js": "/cotizadorweb/static/js/runtime-main.1680fe45.js",
+    "runtime-main.js.map": "/cotizadorweb/static/js/runtime-main.1680fe45.js.map",
+    "static/js/2.6c304317.chunk.js": "/cotizadorweb/static/js/2.6c304317.chunk.js",
+    "static/js/2.6c304317.chunk.js.map": "/cotizadorweb/static/js/2.6c304317.chunk.js.map",
+    "index.html": "/cotizadorweb/index.html",
+    "static/css/main.769b1815.chunk.css.map": "/cotizadorweb/static/css/main.769b1815.chunk.css.map",
+    "static/js/2.6c304317.chunk.js.LICENSE.txt": "/cotizadorweb/static/js/2.6c304317.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.17bab0d5.js",
+    "static/js/runtime-main.1680fe45.js",
     "static/js/2.6c304317.chunk.js",
     "static/css/main.769b1815.chunk.css",
-    "static/js/main.8a7ee25c.chunk.js"
+    "static/js/main.32cb91bc.chunk.js"
   ]
 }
